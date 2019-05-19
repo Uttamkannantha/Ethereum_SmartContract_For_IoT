@@ -3,7 +3,9 @@
 
 
 Initilize node modules in both the folders..(See package.json files for information for packages nedded)
+
 //After setting up node modules folder(default files) run "npm install"
+
 Smart_Contract_IoT is a folder for smart contract
 UI_React is a user interface built using create-react-app.
 

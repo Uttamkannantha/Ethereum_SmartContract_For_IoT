@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface , bytecode} = require('./compile');
 
 const provider = new HDWalletProvider(
-  'already artefact drive jump ivory curve explain caution script furnace amazing empty',
-  'https://rinkeby.infura.io/v3/07581aef975d4dbe9344ff6d108e3b8b'
+  '"Metmask secret words"',
+  'https://rinkeby.infura.io/v3/"Infura api key"'
 );
 
 const web3 = new Web3(provider);
